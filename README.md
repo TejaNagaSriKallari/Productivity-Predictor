@@ -15,7 +15,7 @@ Built using React, Flask, and scikit-learn.
 ## Screenshots
 
 ###  Home Page
-![Home](public/Screenshot (200).png)
+[![Home](public/Screenshot (200).png)](https://github.com/TejaNagaSriKallari/Productivity-Predictor/commit/abf811f006c9d73ec869f7d69fa4e93cf0a0d1a2#commitcomment-160589249)
 
 ###  Predictor Form
 ![Form](./public/Screenshot (201).png)
