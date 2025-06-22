@@ -26,7 +26,7 @@ const Predictor = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const response = await axios.post('https://productivity-predictor-ej88.onrender.com', {
+      const response = await axios.post('https://productivity-predictor-ej88.onrender.com/predict', {
         job_satisfaction_score: Number(formData.jobSatisfaction),
         work_hours_per_day: Number(formData.workHours),
         sleep_hours: Number(formData.sleepHours),
