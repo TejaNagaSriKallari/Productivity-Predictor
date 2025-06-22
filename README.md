@@ -14,16 +14,16 @@ Built using React, Flask, and scikit-learn.
 
 ## Screenshots
 
-> 💡 Replace `./public/filename.png` with the correct paths or upload to GitHub and use image URLs
+###  Home Page
+![Home](./public/screenshot(200).png)
 
-### 🏠 Home Page
-![Home](./public/home.png)
-
-### 📥 Predictor Form
-![Form](./public/form.png)
+###  Predictor Form
+![Form](./public/screenshot(201).png)
 
 ### ✅ Result Page
-![Result](./public/result.png)
+![Result](./public/screenshot(202).png)
+
+![Result](./public/screenshot(203).png)
 
 
 ## Tech Stack
