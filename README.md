@@ -15,15 +15,15 @@ Built using React, Flask, and scikit-learn.
 ## Screenshots
 
 ###  Home Page
-![Home](./public/Screenshot(200).png)
+![Home](./public/Screenshot (200).png)
 
 ###  Predictor Form
-![Form](./public/Screenshot(201).png)
+![Form](./public/Screenshot (201).png)
 
 ### ✅ Result Page
-![Result](./public/Screenshot(202).png)
+![Result](./public/Screenshot (202).png)
 
-![Result](./public/Screenshot(203).png)
+![Result](./public/Screenshot (203).png)
 
 
 ## Tech Stack
