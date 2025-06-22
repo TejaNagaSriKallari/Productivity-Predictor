@@ -15,7 +15,7 @@ Built using React, Flask, and scikit-learn.
 ## Screenshots
 
 ###  Home Page
-![Home](./public/Screenshot (200).png)
+![Home](public/Screenshot (200).png)
 
 ###  Predictor Form
 ![Form](./public/Screenshot (201).png)
