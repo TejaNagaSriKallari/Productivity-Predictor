@@ -18,12 +18,12 @@ Built using React, Flask, and scikit-learn.
 ![Home](public/home.png)
 
 ###  Predictor Form
-![Form](./public/Screenshot (201).png)
+![Form](public/predictor.png)
 
 ### ✅ Result Page
-![Result](./public/Screenshot (202).png)
+![Result](public/productive.png)
 
-![Result](./public/Screenshot (203).png)
+![Result](public/distracted.png)
 
 
 ## Tech Stack
